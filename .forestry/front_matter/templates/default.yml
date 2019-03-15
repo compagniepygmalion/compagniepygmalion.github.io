@@ -3,3 +3,5 @@ label: Default
 hide_body: false
 fields:
 - type: text
+pages:
+- _posts/annonce.md

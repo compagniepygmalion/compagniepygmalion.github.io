@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Bienvenue sur le site de la Compagnie Pygmalion!

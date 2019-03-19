@@ -4,5 +4,6 @@ hide_body: false
 fields:
 - type: text
 pages:
+- _posts/test_other.md
 - spectacles_passes.md
 - _posts/annonce.md

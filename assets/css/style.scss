@@ -3,3 +3,25 @@
 ---
 
 @import "minima";
+.tabs-menu-text-details {
+  font-family: serif;
+  font-size: 2rem;
+  font-style: italic;
+  color: white;
+  border-radius: 0 20px 20px 20px;
+}
+
+.tabs-menu {
+  border-bottom: none;
+}
+
+.tabs-menu-link:focus,
+.tabs-menu-link:hover {
+  color: red;
+  text-decoration: none;
+}
+
+
+
+
+

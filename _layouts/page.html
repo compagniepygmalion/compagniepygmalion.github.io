@@ -11,4 +11,9 @@ layout: default
     {{ content }}
   </div>
 
+  {% if page.slider %}
+      {% include slider.html %}
+  {% endif %}
+
+
 </article>

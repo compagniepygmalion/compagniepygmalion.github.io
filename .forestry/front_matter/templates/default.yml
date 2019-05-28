@@ -3,5 +3,3 @@ label: Default
 hide_body: false
 fields:
 - type: text
-pages:
-- _posts/2019-03-19-test_other.md

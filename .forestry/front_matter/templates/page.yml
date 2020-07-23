@@ -18,9 +18,11 @@ fields:
   - type: text
     name: text_color
     label: text_color
+    hidden: true
   - type: text
     name: shadow_color
     label: shadow_color
+    hidden: true
   - type: field_group_list
     name: slides
     label: slides
@@ -28,3 +30,5 @@ fields:
     - type: file
       name: image
       label: image
+    hidden: true
+  hidden: true

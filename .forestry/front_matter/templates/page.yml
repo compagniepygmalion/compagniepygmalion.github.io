@@ -5,6 +5,8 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: page
+  hidden: true
 - type: text
   name: title
   label: title
@@ -18,11 +20,13 @@ fields:
   - type: text
     name: text_color
     label: text_color
-    hidden: false
+    hidden: true
+    default: white
   - type: text
     name: shadow_color
     label: shadow_color
-    hidden: false
+    hidden: true
+    default: white
   - type: field_group_list
     name: slides
     label: slides

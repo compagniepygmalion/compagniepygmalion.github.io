@@ -1,0 +1,38 @@
+---
+label: Page
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  default: page
+  hidden: true
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: field_group
+  name: slider
+  label: slider
+  fields:
+  - type: text
+    name: text_color
+    label: text_color
+    hidden: true
+    default: white
+  - type: text
+    name: shadow_color
+    label: shadow_color
+    hidden: true
+    default: white
+  - type: field_group_list
+    name: slides
+    label: slides
+    fields:
+    - type: file
+      name: image
+      label: image
+    hidden: true
+  hidden: true

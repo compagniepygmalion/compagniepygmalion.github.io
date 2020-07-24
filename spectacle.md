@@ -1,0 +1,77 @@
+---
+layout: page
+title: Kyogen Sushis Farcis
+permalink: /spectacle/
+slider:
+  text_color: white
+  shadow_color: white
+  slides: 
+    - image: /images/2009/dsc_0096.jpg
+    - image: /images/2009/dsc_0097.jpg
+    - image: /images/2009/dsc_0098.jpg
+    - image: /images/2009/dsc_0099.jpg
+    - image: /images/2009/dsc_0100.jpg
+    - image: /images/2009/dsc_0101.jpg
+    - image: /images/2009/dsc_0102.jpg
+    - image: /images/2009/dsc_0103.jpg
+    - image: /images/2009/dsc_0104.jpg
+    - image: /images/2009/dsc_0105.jpg
+    - image: /images/2009/dsc_0107.jpg
+    - image: /images/2009/dsc_0108.jpg
+    - image: /images/2009/dsc_0109.jpg
+    - image: /images/2009/dsc_0111.jpg
+    - image: /images/2009/dsc_0112.jpg
+    - image: /images/2009/dsc_0113.jpg
+    - image: /images/2009/dsc_0114.jpg
+    - image: /images/2009/dsc_0116.jpg
+    - image: /images/2009/dsc_0117.jpg
+    - image: /images/2009/dsc_0118.jpg
+    - image: /images/2009/dsc_0120.jpg
+    - image: /images/2009/dsc_0121.jpg
+    - image: /images/2009/dsc_0122.jpg
+    - image: /images/2009/dsc_0124.jpg
+    - image: /images/2009/dsc_0125.jpg
+    - image: /images/2009/dsc_0128.jpg
+    - image: /images/2009/dsc_0129.jpg
+    - image: /images/2009/dsc_0130.jpg
+    - image: /images/2009/dsc_0132.jpg
+    - image: /images/2009/dsc_0133.jpg
+    - image: /images/2009/dsc_0134.jpg
+    - image: /images/2009/dsc_0135.jpg
+    - image: /images/2009/dsc_0136.jpg
+    - image: /images/2009/dsc_0137.jpg
+    - image: /images/2009/dsc_0138.jpg
+    - image: /images/2009/dsc_0139.jpg
+    - image: /images/2009/dsc_0140.jpg
+    - image: /images/2009/dsc_0141.jpg
+    - image: /images/2009/dsc_0142.jpg
+    - image: /images/2009/dsc_0143.jpg
+    - image: /images/2009/dsc_0144.jpg
+    - image: /images/2009/dsc_0145.jpg
+    - image: /images/2009/dsc_0146.jpg
+    - image: /images/2009/dsc_0147.jpg
+    - image: /images/2009/dsc_0148.jpg
+    - image: /images/2009/dsc_0150.jpg
+    - image: /images/2009/dsc_0151.jpg
+    - image: /images/2009/dsc_0152.jpg
+    - image: /images/2009/dsc_0153.jpg
+    - image: /images/2009/dsc_0154.jpg
+    - image: /images/2009/dsc_0155.jpg
+    - image: /images/2009/dsc_0156.jpg
+    - image: /images/2009/dsc_0157.jpg
+    - image: /images/2009/dsc_0158.jpg
+    - image: /images/2009/dsc_0159.jpg
+    - image: /images/2009/dsc_0160.jpg
+    - image: /images/2009/dsc_0161.jpg
+    - image: /images/2009/dsc_0163.jpg
+    - image: /images/2009/dsc_0165.jpg
+    - image: /images/2009/dsc_0166.jpg
+    - image: /images/2009/dsc_0167.jpg
+    - image: /images/2009/dsc_0173.jpg
+    - image: /images/2009/dsc_0177.jpg
+    - image: /images/2009/dsc_0179.jpg
+    - image: /images/2009/dsc_0181.jpg
+    - image: /images/2009/dsc_0182.jpg
+---
+
+Trois courtes comédies du XIXè au programme: deux comédies d'Eugène Labiche, La Main Leste et Les Suites d'un Premier Lit, mais aussi Ludovic Halévy avec un vaudeville pur jus, Loulou. Quiproquos, amants (ou maitresses) dans les placards, retournements de situation sont donc au programme !!!

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trois pièces pour un placard
+title: Le making-off
 permalink: /making_off/
 slider:
   text_color: white
@@ -34,5 +34,3 @@ slider:
     - image: /images/2011/making off/Spectacle théâtre 21052011 064bis.jpg
 
 ---
-
-Trois courtes comédies du XIXè au programme: deux comédies d'Eugène Labiche, La Main Leste et Les Suites d'un Premier Lit, mais aussi Ludovic Halévy avec un vaudeville pur jus, Loulou. Quiproquos, amants (ou maitresses) dans les placards, retournements de situation sont donc au programme !!!---

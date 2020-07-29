@@ -17,5 +17,5 @@ title: La Création
 </p>
 
 <p>
-<div style="text-align: center"><font size="5px"><a href="/spectacle/index.html">Spectacles</a></font></div>
+<div style="text-align: center"><font size="5px"><a href="/spectacle_creation/index.html">Spectacles</a></font></div>
 </p>

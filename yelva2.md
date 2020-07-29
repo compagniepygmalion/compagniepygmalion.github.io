@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trois pièces pour un placard
+title: Yelva d'Eugène Scribe
 permalink: /yelva2/
 slider:
   text_color: white
@@ -54,5 +54,3 @@ slider:
     - image: /images/2011/Yelva/Spectacle théâtre 21052011 224.JPG
 
 ---
-
-Trois courtes comédies du XIXè au programme: deux comédies d'Eugène Labiche, La Main Leste et Les Suites d'un Premier Lit, mais aussi Ludovic Halévy avec un vaudeville pur jus, Loulou. Quiproquos, amants (ou maitresses) dans les placards, retournements de situation sont donc au programme !!!---

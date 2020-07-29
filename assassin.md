@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Trois pièces pour un placard
+title: L'Assassin de Lauzanne et Jaime
 permalink: /assassin/
 slider:
   text_color: white
   shadow_color: white
-  slides: 
-    - image: /images/2011/Assassin/liste_fichiers.py
+  slides:
     - image: /images/2011/Assassin/Spectacle théâtre 21052011 068.JPG
     - image: /images/2011/Assassin/Spectacle théâtre 21052011 070.JPG
     - image: /images/2011/Assassin/Spectacle théâtre 21052011 071bis.jpg
@@ -52,5 +51,3 @@ slider:
     - image: /images/2011/Assassin/Spectacle théâtre 21052011 128.JPG
 
 ---
-
-Trois courtes comédies du XIXè au programme: deux comédies d'Eugène Labiche, La Main Leste et Les Suites d'un Premier Lit, mais aussi Ludovic Halévy avec un vaudeville pur jus, Loulou. Quiproquos, amants (ou maitresses) dans les placards, retournements de situation sont donc au programme !!!---

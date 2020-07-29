@@ -158,4 +158,4 @@ slider:
 
 ---
 
-Une pièce de Vaudeville féérique.
+Cette année, une pièce des fréres Cogniard, « les frères siamiois du vaudeville ». La pièce est une féerie, montée pour la première fois Théâtre de la porte Saint Martin, au mileu du XIXé siécle. Le défi cette année était d'adapter ces superproductions de l'époque (pléthore de figurants, décors nombreux, le tout joué dans une salle de 1800 places !!!) salle du 8 mai ! Défi relevé. Place aux photos (cherchez la biche...).

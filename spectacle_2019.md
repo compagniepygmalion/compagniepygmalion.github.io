@@ -1,0 +1,108 @@
+---
+layout: page
+title: 17 avenue de la Bourdonnais
+permalink: /spectacle_2019/
+slider:
+  text_color: white
+  shadow_color: white
+  slides: 
+    - image: /images/2019/2015-05-29_20.40.36.jpg
+    - image: /images/2019/2015-05-29_20.40.38.jpg
+    - image: /images/2019/IMG_0621.JPG
+    - image: /images/2019/IMG_0622.JPG
+    - image: /images/2019/IMG_0623.JPG
+    - image: /images/2019/IMG_0624.JPG
+    - image: /images/2019/IMG_0625.JPG
+    - image: /images/2019/IMG_0626.JPG
+    - image: /images/2019/IMG_0627.JPG
+    - image: /images/2019/IMG_0628.JPG
+    - image: /images/2019/IMG_0629.JPG
+    - image: /images/2019/IMG_0630.JPG
+    - image: /images/2019/IMG_0631.JPG
+    - image: /images/2019/IMG_0632.JPG
+    - image: /images/2019/IMG_0633.JPG
+    - image: /images/2019/IMG_0634.JPG
+    - image: /images/2019/IMG_0635 2.JPG
+    - image: /images/2019/IMG_0636.JPG
+    - image: /images/2019/IMG_0637.JPG
+    - image: /images/2019/IMG_0638.JPG
+    - image: /images/2019/IMG_0639.JPG
+    - image: /images/2019/IMG_0640.JPG
+    - image: /images/2019/IMG_0641.JPG
+    - image: /images/2019/IMG_0642.JPG
+    - image: /images/2019/IMG_0643.JPG
+    - image: /images/2019/IMG_0644.JPG
+    - image: /images/2019/IMG_0645.JPG
+    - image: /images/2019/IMG_0646.JPG
+    - image: /images/2019/IMG_0647.JPG
+    - image: /images/2019/IMG_0648.JPG
+    - image: /images/2019/IMG_0649.JPG
+    - image: /images/2019/IMG_0650.JPG
+    - image: /images/2019/IMG_0651.JPG
+    - image: /images/2019/IMG_0652.JPG
+    - image: /images/2019/IMG_0653.JPG
+    - image: /images/2019/IMG_0654.JPG
+    - image: /images/2019/IMG_0655.JPG
+    - image: /images/2019/IMG_0656.JPG
+    - image: /images/2019/IMG_0657.JPG
+    - image: /images/2019/IMG_0658.JPG
+    - image: /images/2019/IMG_0659.JPG
+    - image: /images/2019/IMG_0660.JPG
+    - image: /images/2019/IMG_0661.JPG
+    - image: /images/2019/IMG_0662.JPG
+    - image: /images/2019/IMG_0663.JPG
+    - image: /images/2019/IMG_0664.JPG
+    - image: /images/2019/IMG_0665.JPG
+    - image: /images/2019/IMG_0666.JPG
+    - image: /images/2019/IMG_0667.JPG
+    - image: /images/2019/IMG_0668.JPG
+    - image: /images/2019/IMG_0669.JPG
+    - image: /images/2019/IMG_0670.JPG
+    - image: /images/2019/IMG_0671.JPG
+    - image: /images/2019/IMG_0672.JPG
+    - image: /images/2019/IMG_0673.JPG
+    - image: /images/2019/IMG_0674.JPG
+    - image: /images/2019/IMG_0675.JPG
+    - image: /images/2019/IMG_0676.JPG
+    - image: /images/2019/IMG_0677.JPG
+    - image: /images/2019/IMG_0678.JPG
+    - image: /images/2019/IMG_0679.JPG
+    - image: /images/2019/IMG_0680.JPG
+    - image: /images/2019/IMG_0681.JPG
+    - image: /images/2019/IMG_0682.JPG
+    - image: /images/2019/IMG_0683.JPG
+    - image: /images/2019/IMG_0684.JPG
+    - image: /images/2019/IMG_0685.JPG
+    - image: /images/2019/IMG_0686.JPG
+    - image: /images/2019/IMG_0687.JPG
+    - image: /images/2019/IMG_0688.JPG
+    - image: /images/2019/IMG_0689.JPG
+    - image: /images/2019/IMG_0690.JPG
+    - image: /images/2019/IMG_0691.JPG
+    - image: /images/2019/IMG_0692.JPG
+    - image: /images/2019/IMG_0693.JPG
+    - image: /images/2019/IMG_0694.JPG
+    - image: /images/2019/IMG_0695.JPG
+    - image: /images/2019/IMG_0696.JPG
+    - image: /images/2019/IMG_0697.JPG
+    - image: /images/2019/IMG_0698.JPG
+    - image: /images/2019/IMG_0699.JPG
+    - image: /images/2019/IMG_0700.JPG
+    - image: /images/2019/IMG_0701.JPG
+    - image: /images/2019/IMG_0702.JPG
+    - image: /images/2019/IMG_0703.JPG
+    - image: /images/2019/IMG_0704.JPG
+    - image: /images/2019/IMG_0705.JPG
+    - image: /images/2019/IMG_0706.JPG
+    - image: /images/2019/IMG_0707.JPG
+    - image: /images/2019/IMG_0708.JPG
+    - image: /images/2019/IMG_0709.JPG
+    - image: /images/2019/IMG_0710.JPG
+    - image: /images/2019/IMG_0711.JPG
+    - image: /images/2019/IMG_0712.JPG
+    - image: /images/2019/IMG_0713.JPG
+    - image: /images/2019/IMG_0714.JPG
+
+---
+
+Une création théâtrale de la compagnie.

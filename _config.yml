@@ -53,3 +53,4 @@ paginate_path: /page:num/
 header_pages:
  - compagnie.md
  - passe.md
+ - lacreation.md

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grand-Guignol
+title: L'Atroce Volupté, Après Coups (Tics) et Un Concert chez les fous
 permalink: /spectacle_2007/
 slider:
   text_color: white
@@ -56,4 +56,4 @@ slider:
     - image: /images/2007/9.jpg
 ---
 
-Trois courtes comédies du XIXè au programme: deux comédies d'Eugène Labiche, La Main Leste et Les Suites d'un Premier Lit, mais aussi Ludovic Halévy avec un vaudeville pur jus, Loulou. Quiproquos, amants (ou maitresses) dans les placards, retournements de situation sont donc au programme !!!
+Trois comédie dramatiques déjantées ! L'Atroce Volupté de Georges Neveux, Après Coups (ou Tics) de René Berton et Un concert chez les fous d'André De Lorde. 

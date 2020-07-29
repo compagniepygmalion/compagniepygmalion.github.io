@@ -59,4 +59,4 @@ slider:
 
 ---
 
-Trois courtes comédies du XIXè au programme: deux comédies d'Eugène Labiche, La Main Leste et Les Suites d'un Premier Lit, mais aussi Ludovic Halévy avec un vaudeville pur jus, Loulou. Quiproquos, amants (ou maitresses) dans les placards, retournements de situation sont donc au programme !!!
+Un assemblage de textes d'Hanoch Levin, dramaturge et metteur en scène israélien. Du comptemporain, avec un brin d'absurdité

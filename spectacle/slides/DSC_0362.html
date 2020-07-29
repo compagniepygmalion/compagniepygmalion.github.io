@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+<!-- saved from url=(0014)about:internet -->
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<meta name="Keywords" content="photo,album,gallery,DSC_0362,DSC_0362" />
+
+<meta http-equiv="Page-Enter" content="blendTrans(Duration=0.5)" />
+<meta http-equiv="Page-Exit" content="blendTrans(Duration=0.5)" />
+<title>UCLA-Nov08/DSC_0362</title>
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+
+function keypress(e) {
+	if(!e) var e=window.event;
+	if(e.keyCode) keyCode=e.keyCode; 
+	else if(e.which) keyCode=e.which;
+	switch(keyCode) {
+		case 8: window.location="../index.html"; return false; break;
+		case 63235: case 39: window.location="DSC_0365.html"; return false; break;
+		case 63234: case 37: window.location="DSC_0361.html"; return false; break;
+		case 63273: case 36: window.location="DSC_0332.html"; return false; break;
+		case 63275: case 35: window.location="DSC_0545.html"; return false; break;
+		case 32: show_down(); setTimeout('show_out()', 200); return false; break;
+	}
+	return true;
+}
+function keypresslistener() {
+  if(document.all) { document.onkeydown = keypress; }
+  else if(document.layers || document.getElementById) { document.onkeypress = keypress; }
+}
+idx0 = new Image(31,31); idx0.src = "../res/idx.gif";
+idx1 = new Image(31,31); idx1.src = "../res/idx1.gif";
+next0 = new Image(31,31);next0.src = "../res/next.gif";
+next1 = new Image(31,31);next1.src = "../res/next1.gif";
+prev0 = new Image(31,31);prev0.src = "../res/prev.gif";
+prev1 = new Image(31,31);prev1.src = "../res/prev1.gif";
+
+show0 = new Image(31,31);show0.src = "../res/show.gif";
+show1 = new Image(31,31);show1.src = "../res/show1.gif";
+stop0 = new Image(31,31);stop0.src = "../res/stop.gif";
+stop1 = new Image(31,31);stop1.src = "../res/stop1.gif";
+
+var show_param = -1;
+if (window.location.search.length > 1) {
+	var parms = window.location.search.substring(1,location.search.length).split("&");
+	for (var i = 0; i < parms.length; i++) {		
+		if(parms[i].substring(0, parms[i].indexOf("=")) == "show_param") 
+			delay = show_param = parms[i].substring(parms[i].indexOf("=") + 1, parms[i].length);
+	}
+}
+var show_delay = show_param;
+function show_timer() {
+	if (show_delay >= 0) {
+		show_delay--;
+		if (show_delay < 0 && show_param > 0) {
+			window.location="DSC_0365.html?show_param=" + show_param;
+		}
+		else if(show_param > 0) 
+			window.status='Time left: '+(show_delay + 1)+' s';
+	}
+	setTimeout('show_timer()', 1000);	
+}
+function show_over() {
+	document.getElementById("show").src = (show_param >= 0)? stop1.src : show1.src;
+	window.status = 'Start/Stop diaporama - Double-clic pour changer le délai';
+}
+function show_out() {
+	document.getElementById("show").src = (show_param >= 0)? stop0.src : show0.src;
+}
+function show_down() {
+	el = document.getElementById("show");
+	if (show_param >= 0) { 
+		show_param = -1; 
+		el.src = stop1.src; 
+		window.status=''; 
+	} 
+	else { 
+		show_param = 3; 
+		el.src = show1.src; 
+	} 
+	show_delay = show_param; 
+}
+function change_delay() {
+	delay = prompt('délai', (show_param < 0)? 3 : show_param);
+	show_param = show_delay = delay; 
+	document.getElementById("show").src = show1.src;
+}
+
+
+
+
+/* ]]> */
+</script>
+
+
+
+<link rel="stylesheet" type="text/css" href="../res/styles.css" />
+
+<style type="text/css">
+body {  }
+</style>
+</head>
+
+<body id="body" onload="show_timer(); show_out(); keypresslistener();">
+<div style="margin-left:auto; margin-right:auto; padding-bottom:10px; text-align:center;">
+<table style="height:54px;" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr><td>
+<!-- Header of slide pages -->
+<table style="width:816px;" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+  <a href="DSC_0361.html"><img style="border:0;" width="0" height="0"   title=" Image précédente " alt="Prev" id="prev" /></a></td>
+<td style="width:31px;">
+  <a href="DSC_0365.html"></a></td>
+
+<td style="width:31px;">
+  <a href="javascript:void(0)"><img style="border:0;" width="0" height="0"     title=" Start/Stop diaporama - Double-clic pour changer le délai "  /></a></td>
+</tr></table>
+</td></tr></table>
+<br />
+
+
+<map name="imagemap" style="text-decoration:none; border:0;" id="imap"><area coords="0,0,134,600" href="DSC_0361.html" alt=" Image précédente " title=" Image précédente " /><area coords="268,0,403,600" href="DSC_0365.html" alt=" Image suivante " title=" Image suivante " /><area coords="134,0,268,600" href="../index.html" alt=" Page d'index " title=" Page d'index " /></map>
+<table align="center" border="0" cellspacing="0" cellpadding="0"><tr>
+<td style="vertical-align:top;"><table style="width:64px;"><tr><td style="text-align:center; padding:4px; height:50px; border:0px;"><a href="DSC_0345.html"><img src="../thumbs/DSC_0345.JPG" title=" DSC_0345 " alt="DSC_0345" width="48" height="32" class="mthumb" /></a></td></tr><tr><td style="text-align:center; padding:4px; height:50px; border:0px;"><a href="DSC_0346.html"><img src="../thumbs/DSC_0346.JPG" title=" DSC_0346 " alt="DSC_0346" width="48" height="32" class="mthumb" /></a></td></tr><tr><td style="text-align:center; padding:4px; height:50px; border:0px;"><a href="DSC_0350.html"><img src="../thumbs/DSC_0350.JPG" title=" DSC_0350 " alt="DSC_0350" width="48" height="32" class="mthumb" /></a></td></tr><tr><td style="text-align:center; padding:4px; height:50px; border:0px;"><a href="DSC_0352.html"><img src="../thumbs/DSC_0352.JPG" title=" DSC_0352 " alt="DSC_0352" width="48" height="32" class="mthumb" /></a></td></tr><tr><td style="text-align:center; padding:4px; height:50px; border:0px;"><a href="DSC_0361.html"><img src="../thumbs/DSC_0361.JPG" title=" DSC_0361 " alt="DSC_0361" width="48" height="25" class="mthumb" /></a></td></tr></table></td><td style="width:12px">&nbsp;</td>
+<td style="text-align:center; width:816px;">
+<img id="slide" src="DSC_0362.JPG" class="slideImage" width="403" height="600" alt="DSC_0362.JPG" title="" usemap="#imagemap" /></td>
+<td style="width:12px">&nbsp;</td><td style="vertical-align:bottom"><table style="width:64px;"><tr><td style="text-align:center; padding:4px; height:50px; border:0px;"><a href="DSC_0365.html"><img src="../thumbs/DSC_0365.JPG" title=" DSC_0365 " alt="DSC_0365" width="48" height="32" class="mthumb" /></a></td></tr><tr><td style="text-align:center; padding:4px; height:50px; border:0px;"><a href="DSC_0366.html"><img src="../thumbs/DSC_0366.JPG" title=" DSC_0366 " alt="DSC_0366" width="48" height="32" class="mthumb" /></a></td></tr><tr><td style="text-align:center; padding:4px; height:50px; border:0px;"><a href="DSC_0368.html"><img src="../thumbs/DSC_0368.JPG" title=" DSC_0368 " alt="DSC_0368" width="32" height="48" class="mthumb" /></a></td></tr><tr><td style="text-align:center; padding:4px; height:50px; border:0px;"><a href="DSC_0370.html"><img src="../thumbs/DSC_0370.JPG" title=" DSC_0370 " alt="DSC_0370" width="32" height="48" class="mthumb" /></a></td></tr><tr><td style="text-align:center; padding:4px; height:50px; border:0px;"><a href="DSC_0377.html"><img src="../thumbs/DSC_0377.JPG" title=" DSC_0377 " alt="DSC_0377" width="32" height="48" class="mthumb" /></a></td></tr></table></td></tr></table>
+
+
+<br /><span class="xsmalltxt"><a href="javascript:void(0)" onclick="window.open('../help.html','Aide','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes,width=560,height=560')">Aide</a></span>
+</div>
+
+<script language="javascript" type="text/javascript">
+next_image=new Image(); next_image.src="DSC_0365.JPG";
+</script>
+<script language="javascript" type="text/javascript">
+previous_image=new Image(); previous_image.src="DSC_0361.JPG";
+</script>
+</body>
+</html>

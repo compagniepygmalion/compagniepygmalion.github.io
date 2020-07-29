@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yelva
+title: Yelva et l'Assassin
 permalink: /spectacle_2011/
 slider:
   text_color: white
@@ -13,4 +13,4 @@ slider:
     - image: /images/2011/yelva.jpg
 ---
 
-Trois courtes comédies du XIXè au programme: deux comédies d'Eugène Labiche, La Main Leste et Les Suites d'un Premier Lit, mais aussi Ludovic Halévy avec un vaudeville pur jus, Loulou. Quiproquos, amants (ou maitresses) dans les placards, retournements de situation sont donc au programme !!!
+Deux pièces de Vaudeville : Yelva d'Eugène Scribe et l'Assassin de Lauzanne et Jaime.

@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-	<div><font size=60>Guide débutant</font></div>
+	<div><font size=60>Guide débutant</font><br></div>
 	<div>Dans ce guide débutant je vais présenter comment, étape par étape, créer un nouveau post sur le site. Tout d'abord, rendez-vous sur le site <a href="https://forestry.io/" onclick="window.open(this.href); return false;">Forestry</a> et choisir de se connecter avec GitHub.</div>
 
 	<img class="guide" src="/images/guide/forestry.png" alt="Site forestry">
@@ -13,7 +13,7 @@ layout: default
 
 	<img class="guide" src="/images/guide/identifiant.png" alt="Identifiant Forestry">
 
-	<div>Ensuite, il faut sélectionner le site de Pygmalion</div>
+	<div>Ensuite, il faut sélectionner le site de Pygmalion.</div>
 
 	<img class="guide" src="/images/guide/pygmalion.png" alt="Identifiant Forestry">
 
@@ -21,12 +21,65 @@ layout: default
 
 	<img class="guide" src="/images/guide/post.png" alt="Créer un nouveau post">
 
-	<div>A présent, vous pouvez rédiger le post avec le titre, la date et le contenu (dans l'espace vide à droite). La petite icône image en bas permet de rajouter une image au post. Pour que le post apparaisse sur le site cliquer bien sur le petit "OFF" en dessous de "Draft" en haut à droite de l'écran et cliquez sur "Save". Et voilà, le post est créé ! Notez qu'on peut poster maximum 10 posts par jour.</div>
+	<div>A présent, vous pouvez rédiger le post avec le titre, la date et le contenu (dans l'espace vide à droite). La petite icône image en bas permet de rajouter une image au post. Pour que le post apparaisse sur le site cliquez bien sur le petit "OFF" en dessous de "Draft" en haut à droite de l'écran et cliquez sur "Save". Et voilà, le post est créé !</div>
 
 	<img class="guide" src="/images/guide/redac_post.png" alt="Créer un nouveau post">
 
 
-	<div><font size=60>Guide intermédaire</font></div>
-	<div>Dans ce second guide, je vais expliquer comment modifier une page les <a href="/spectacle_passe/" onclick="window.open(this.href); return false;">spectacles passés.</a></div>
+	<div><font size=60>Guide intermédaire</font><br></div>
+	<div>Dans ce second guide, je vais expliquer comment modifier une page les <a href="/spectacle_passe/" onclick="window.open(this.href); return false;">spectacles passés.</a> Tout d'abord, il faut séléctionner "Pages" sur le bandeau de gauche.</a></div>
 
+	<img class="guide" src="/images/guide/pages.png" alt="Selectionner Pages">
+
+	<div>Ensuite, il faut sélectionner la page que l'on souhaite modifier. A présent, on peut modofier "Title" et le texte, situé à droite. Il ne faut par contre pas toucher au "Layout" et au "Permalink".</div>
+
+	<img class="guide" src="/images/guide/modif_page.png" alt="Modifier une page">
+
+	<div>Il est également possible de rajouter des images dans le diaporama. Pour cela, il faut cliquer sur "Slider" puis "Add Slide". A la fin de la modification, ne pas oublier de cliquer sur "Save".</div>
+
+	<img class="guide" src="/images/guide/slider.png" alt="Modifier une page">
+
+
+	<div><font size=60>Guide avancé</font><br></div>
+	<div>Dans ce dernier guide, je vais expliquer comment créer une nouvelle page dans les spectacles passés. Ce sera pratiquement la même chose que le guide précédent avec une petite subtilité. Tout d'abord sélectionnez "Pages" sur le bandeau de gauche puis "Create New" comme pour créer un post, mais cette fois sélectionnez "Pages" et "Next". N'oubliez pas de choisir une icône pour la page.</div>
+
+	<img class="guide" src="/images/guide/page.png" alt="Créer une nouvelle page">
+
+	<div>Maintenant, remplissez le titre, le slider et la description à droite. A présent, il faut remplir le "Permalink". Il doit se trouver entre deux symboles "/" sans espace, accent ni symbole sauf des tirets du bas "_". Par exemple : /exemple/. ATTENTION : le permalink doit être unique et ne pas faire partie de cette liste (permalinks déjà utilisés) : /spectacle_2011/, /yelva/, /yelva2/, /spectacle_2019/, /spectacle_2015/, /spectacle_2014/, /spectacle_2012/, /assassin/, /final/, /making_off/, /kyogen/, /spectacle/, /makingoff/, /proverbe/, /almenorade/, /ledesoeuvrement/, /lefinal/, /lesinterpretations/, /lemakingoff/, /pigeon/, /spectacle_passe/, /repets/, /guide/. N'oubliez pas de cliquer sur "Off" et sur "Save".</div>
+
+	<img class="guide" src="/images/guide/creation_page.png" alt="Remplir la page">
+
+	<div>A présent, renndez vous sur le site de <a href="https://github.com/" onclick="window.open(this.href); return false;">GitHub</a>, cliquez sur "Sign In" en haut à droite et connectez vous avec les mêmes identifiants que pour Forestry.</div>
+
+	<img class="guide" src="/images/guide/github.png" alt="Connexion">
+
+	<div>Ensuite, sélectionnez le site.</div>
+
+	<img class="guide" src="/images/guide/site.png" alt="Sélection du site">
+
+	<div>Vous allez alors arriver sur un explorateur de fichiers. Les deux dossiers qui vont nous intéresser sont "_layouts" et "images".</div>
+
+	<img class="guide" src="/images/guide/explorateur.png" alt="Dossiers">
+
+	<div>Tout d'abord ouvrez le dossier "images", puis cliquez sur "Add files" puis "Upload Files" et uploadez votre icône et appuyez sur "Commit Changes".</div>
+
+	<img class="guide" src="/images/guide/image.png">
+
+	<div>Retournez dans l'explorateur de fichiers et ouvrez le dossier "_layouts" puis le fichier "passe.html".</div>
+
+	<img class="guide" src="/images/guide/layouts.png">
+
+	<div>Cliquez sur le petit stylo comme indiqué.</div>
+
+	<img class="guide" src="/images/guide/stylo.png">
+
+	<div>Vous allez devoir copier coller ce <a href="https://pastebin.com/HL9K5Rhz" onclick="window.open(this.href); return false;">code</a> comme indiqué sur l'image ci-dessous en remplaçant "exemple" par votre permalink sans les "/" et "icone" par le nom de votre icône AVEC L'EXTENSION (.jpg, .png...).</div>
+
+	<img class="guide" src="/images/guide/copier_coller.png">
+
+	<div>Enfin, cliquez sur le bouton "Commit Changes". Et normalement, votre page devrait apparaître !</div>
+
+	<img class="guide" src="/images/guide/commit.png">
+
+	<div><br><font color="red">ATTENTION: C'est un service gratuit, il n'est donc possible que de faire 10 changement sur le site par jour. De plus, les changements peuvent mettre quelques minutes à apparaître sur le site.</font></div>
 </div>

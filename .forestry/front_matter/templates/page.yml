@@ -34,5 +34,5 @@ fields:
     - type: file
       name: image
       label: image
-    hidden: true
+    hidden: false
   hidden: false

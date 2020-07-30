@@ -6,16 +6,16 @@ slider:
   text_color: white
   shadow_color: white
   slides: 
-    - image: /images/2011/final/Spectacle théâtre 21052011 226.JPG
-    - image: /images/2011/final/Spectacle théâtre 21052011 228.JPG
-    - image: /images/2011/final/Spectacle théâtre 21052011 230bis.jpg
-    - image: /images/2011/final/Spectacle théâtre 21052011 231.JPG
-    - image: /images/2011/final/Spectacle théâtre 21052011 233bis.jpg
-    - image: /images/2011/final/Spectacle théâtre 21052011 237.JPG
-    - image: /images/2011/final/Spectacle théâtre 21052011 238.JPG
-    - image: /images/2011/final/Spectacle théâtre 21052011 240.JPG
-    - image: /images/2011/final/Spectacle théâtre 21052011 241.JPG
-    - image: /images/2011/final/Spectacle théâtre 21052011 245bis.jpg
+    - image: /images/2011/final/Spectacle_theatre_21052011_226.JPG
+    - image: /images/2011/final/Spectacle_theatre_21052011_228.JPG
+    - image: /images/2011/final/Spectacle_theatre_21052011_230bis.jpg
+    - image: /images/2011/final/Spectacle_theatre_21052011_231.JPG
+    - image: /images/2011/final/Spectacle_theatre_21052011_233bis.jpg
+    - image: /images/2011/final/Spectacle_theatre_21052011_237.JPG
+    - image: /images/2011/final/Spectacle_theatre_21052011_238.JPG
+    - image: /images/2011/final/Spectacle_theatre_21052011_240.JPG
+    - image: /images/2011/final/Spectacle_theatre_21052011_241.JPG
+    - image: /images/2011/final/Spectacle_theatre_21052011_245bis.jpg
 
 ---
 

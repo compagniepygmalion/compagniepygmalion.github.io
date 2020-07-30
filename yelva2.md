@@ -6,51 +6,51 @@ slider:
   text_color: white
   shadow_color: white
   slides: 
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 130.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 132.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 136.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 138.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 140.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 142.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 143.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 144.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 148.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 149.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 154.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 156.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 157.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 158.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 160.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 161.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 164.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 166.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 167.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 170.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 171.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 174.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 175.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 177.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 179.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 181.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 184bis.jpg
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 185.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 188.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 189.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 191.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 192.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 193.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 195.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 197.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 202.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 203bis.jpg
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 206bis.jpg
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 207.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 211bis.jpg
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 214bis.jpg
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 215.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 216.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 219.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 221.JPG
-    - image: /images/2011/Yelva/Spectacle théâtre 21052011 224.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_130.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_132.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_136.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_138.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_140.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_142.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_143.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_144.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_148.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_149.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_154.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_156.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_157.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_158.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_160.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_161.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_164.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_166.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_167.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_170.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_171.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_174.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_175.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_177.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_179.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_181.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_184bis.jpg
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_185.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_188.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_189.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_191.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_192.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_193.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_195.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_197.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_202.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_203bis.jpg
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_206bis.jpg
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_207.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_211bis.jpg
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_214bis.jpg
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_215.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_216.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_219.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_221.JPG
+    - image: /images/2011/Yelva/Spectacle_theatre_21052011_224.JPG
 
 ---

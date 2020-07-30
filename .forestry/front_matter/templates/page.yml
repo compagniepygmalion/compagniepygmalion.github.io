@@ -20,12 +20,12 @@ fields:
   - type: text
     name: text_color
     label: text_color
-    hidden: true
+    hidden: false
     default: white
   - type: text
     name: shadow_color
     label: shadow_color
-    hidden: true
+    hidden: false
     default: white
   - type: field_group_list
     name: slides

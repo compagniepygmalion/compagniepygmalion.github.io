@@ -14,5 +14,3 @@ slider:
     - image: /images/2009/LeMakingOff/DSCN2907.JPG
 
 ---
-
-Trois courtes comédies du XIXè au programme: deux comédies d'Eugène Labiche, La Main Leste et Les Suites d'un Premier Lit, mais aussi Ludovic Halévy avec un vaudeville pur jus, Loulou. Quiproquos, amants (ou maitresses) dans les placards, retournements de situation sont donc au programme !!!

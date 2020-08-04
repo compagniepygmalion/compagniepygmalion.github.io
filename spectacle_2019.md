@@ -6,8 +6,6 @@ slider:
   text_color: white
   shadow_color: white
   slides: 
-    - image: /images/2019/2015-05-29_20.40.36.jpg
-    - image: /images/2019/2015-05-29_20.40.38.jpg
     - image: /images/2019/IMG_0621.JPG
     - image: /images/2019/IMG_0622.JPG
     - image: /images/2019/IMG_0623.JPG

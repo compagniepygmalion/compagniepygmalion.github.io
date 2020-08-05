@@ -42,8 +42,6 @@ slider:
     - image: /images/2019/IMG_0654.JPG
     - image: /images/2019/IMG_0655.JPG
     - image: /images/2019/IMG_0656.JPG
-    - image: /images/2019/IMG_0657.JPG
-    - image: /images/2019/IMG_0658.JPG
     - image: /images/2019/IMG_0659.JPG
     - image: /images/2019/IMG_0660.JPG
     - image: /images/2019/IMG_0661.JPG

@@ -4,11 +4,11 @@ title: Duo d'improvisation - Vendredi 9 octobre 2020
 date: 2020-09-24 22:00:00 +0000
 
 ---
-Hello... 
+Bonjour à tous !
 
-Pas de spectacle l'année dernière, pour des raisons évidentes. 
+pas de spectacle l'année dernière, pour des raisons évidentes. Malgré tout, nous sommes encore là, masqués, mais là pour la rentrée et la reprise de l'atelier. 
 
-Malgré tout, nous sommes encore là, masqués, mais là pour la rentrée et la reprise de l'atelier. En un premier spectacle pour cette année:
+En un premier spectacle pour cette année:
 
 ![](/uploads/affiche_j_ai_deux_mots_logo.jpg)
 

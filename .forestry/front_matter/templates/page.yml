@@ -36,5 +36,3 @@ fields:
       label: image
     hidden: false
   hidden: false
-pages:
-- test.md

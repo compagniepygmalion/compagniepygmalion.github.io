@@ -1,12 +1,12 @@
 ---
 layout: post
 title: '"Pile ou face" - Spectacle improvisé - Samedi 2 octobre'
-date: 2021-09-26 22:00:00 +0000
+date: 2021-09-26T22:00:00.000+00:00
 
 ---
 Bonjour à tous,
 
-Le compagnie **Pygmalion Impro** fait sa rentrée avec le spectacle improvisé : "**Pile ou Face**"
+La compagnie **Pygmalion Impro** fait sa rentrée avec le spectacle improvisé : "**Pile ou Face**"
 
 _"Françoise a reçu deux invitations tinder à la même heure même date, son choix influera sur le reste de sa vie"._
 

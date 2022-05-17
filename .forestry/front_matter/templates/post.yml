@@ -14,5 +14,6 @@ fields:
   name: date
   label: date
 pages:
+- _posts/la-compagnie-pygmalion-a-antibes-en-scene.md
 - _posts/pile-ou-face-spectacle-improvise-samedi-2-octobre.md
 - _posts/spectacle-improvise-le-5-fevrier-2022.md

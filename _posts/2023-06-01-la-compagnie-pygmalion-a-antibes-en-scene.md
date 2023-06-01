@@ -2,7 +2,7 @@
 ---
 layout: post
 title: La Compagnie Pygmalion à Antibes en scène le 10 juin 2023 !
-date: 2022-05-16T22:00:00.000+00:00
+date: 2023-06-01T22:00:00.000+00:00
 
 ---
 Comme l'année dernière, Nous participons au festival Antibes en scène, le 10 juin, représentation à 20h30.

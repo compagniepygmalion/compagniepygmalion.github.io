@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: La Compagnie Pygmalion à Antibes en scène le 10 juin 2023 !
